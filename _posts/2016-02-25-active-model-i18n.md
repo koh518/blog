@@ -3,7 +3,7 @@ layout: post
 title:  "ActiveModel i18n"
 date:   2016-02-25 00:00:00
 categories: ruby rails i18n active_model
-published: true
+blog: true
 ---
 
 {% gist d7b0cfb2b3c5682279f6 %}

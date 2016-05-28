@@ -3,7 +3,7 @@ layout: post
 title:  "【正規表現】Rails 半角カナ判定バリデーション【Validation】"
 date:   2016-02-25 00:00:00
 categories: ruby rails regexp
-published: true
+blog: true
 ---
 
 半角カナがあったらエラーを出してあげて、問題になっている半角カナを出力するバリデーションを書いた。

@@ -3,7 +3,7 @@ layout: post
 title:  "class << self"
 date:   2016-02-25 00:00:00
 categories: ruby
-published: true
+blog: true
 ---
 
 複数のクラスメソッドをまとめて定義できる書き方。
