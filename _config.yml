@@ -1,13 +1,13 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Kohei abe
+bio: Hello, world
 
 # if it's an external image, update below for true
-external-image: false
-picture: 'assets/images/profile.jpg'
+external-image: true
+picture: 'https://scontent.xx.fbcdn.net/v/t1.0-1/p320x320/10392137_978812598866607_2954137348686632143_n.jpg?oh=aa353bbbf2a892e7eb117dfdf0fa7cdb&oe=57DD2046'
 
-url: http://koppl.in/indigo
-# your url: http://USERNAME.github.io
+
+url: http://koh518.github.io
 
 permalink: /:title/
 
@@ -22,21 +22,21 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: koheiabe
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: kohei.abe.98
+twitter: koh518
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+#youtube: myyoutube
+#spotify: myspotify
+github: koh518
+#medium: medium
+#vimeo: myvimeo
+email: koh518@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
