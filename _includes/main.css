@@ -410,6 +410,7 @@ pre {
 }
 .wrapper-normal {
   max-width: 560px;
+  margin-top: 70px;
 }
 .wrapper-large {
   max-width: 810px;
