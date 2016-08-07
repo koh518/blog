@@ -1,15 +1,15 @@
 ---
-title: "sirabe.net"
+title: "sirabe.net (閉鎖)"
 layout: post
 date: 2016-05-27 00:00
 tag: Rails Music iTunes
-image: 
+image:
 projects: true
 hidden: true # don't count this post in blog pagination
-description: 
+description:
 ---
 
-### [sirabe.net](http://sirabe.net/)
+### [sirabe.net (閉鎖)](http://sirabe.net/)
 
 `iTunesライブラリ`情報を管理しているXMLファイルをアップロードすると解析してライブラリをインタラクティブなコンテンツとして可視化するWebサービス
 `Rails`と`D3.js`で書いた。
